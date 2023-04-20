@@ -1,0 +1,55 @@
+C:\Users\engineHopper\Desktop\Coding Projects\Reload-main - Copy\obj\Debug\Vammopires.csproj.AssemblyReference.cache
+C:\Users\engineHopper\Desktop\Coding Projects\Reload-main - Copy\obj\Debug\Vammopires.csproj.CoreCompileInputs.cache
+C:\Users\engineHopper\Desktop\Coding Projects\Reload-main - Copy\obj\Debug\Reload.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Reload-main - Copy\obj\Debug\Reload.pdb
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\0Harmony.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\Alexandria.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\Assembly-CSharp.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\BepInEx.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\Ionic.Zip.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\ModTheGungeonAPI.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\Mono.Cecil.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\MonoMod.Utils.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\PlayMaker.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\0Harmony.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\BepInEx.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\MonoMod.Utils.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\obj\Debug\Vammopires.csproj.AssemblyReference.cache
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\obj\Debug\Vammopires.csproj.CoreCompileInputs.cache
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\obj\Debug\Vammopires.csproj.CopyComplete
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\Vammopires.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\bin\Debug\Vammopires.pdb
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\obj\Debug\Vammopires.dll
+C:\Users\engineHopper\Desktop\Coding Projects\Vammopires\obj\Debug\Vammopires.pdb
